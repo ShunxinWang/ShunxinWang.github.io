@@ -44,4 +44,4 @@ Publications
   
 Service and leadership
 ======
-* Reviewers for ECCV, Neurips, WiCV ICPR, ICIAP.
+* Reviewers for ECCV, Neurips, WiCV, ICPR, ICIAP.
