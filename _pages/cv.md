@@ -50,9 +50,13 @@ Publications
   {% endfor %}</ul>
   
 
-Student projects
+Selected supervised projects 
 ======
-* 'Leveraging Graded Similarity in Self-supervised Learning', Sam Rappange. 
+* 'Leveraging Graded Similarity in Self-supervised Learning', 2024. 
+* 'Creating segmentation masks for cell segmentation using interactive segmentation model', 2024.
+* 'A Disentangled Representation Learning Approach for Deblurring Microscopy Images', 2023.
+* 'Effectiveness of Fourier-Basis Noise on Improving Adversarial Robustness', 2023.
+* 'Learning Data augmentation policies for computer vision using additive Fourier-basis noise', 2023.
 
 Service
 ======
