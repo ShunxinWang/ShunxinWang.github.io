@@ -17,12 +17,17 @@ Education
 
 Work experience
 ======
+* Fall 2024: Teaching Assistant - Course: Foundation of Information Retrieval
+  * University of Twente 
+
+* Fall 2023: Teaching Assistant - Course: Foundation of Information Retrieval
+  * University of Twente 
+
 * Fall 2022: Teaching Assistant - Course: Foundation of Information Retrieval
   * University of Twente  
 
 * Fall 2021: Teaching Assistant - Course: Foundation of Information Retrieval
   * University of Twente  
-
 
 * Fall 2019: Teaching Assistant - Course: Data Science
   * University of Twente  
@@ -42,6 +47,6 @@ Publications
   {% endfor %}</ul>
   
   
-Service and leadership
+Service
 ======
-* Reviewers for ECCV, Neurips, WiCV, ICPR, ICIAP.
+* Reviewers for ECCV, Neurips, ICLR, AISTATS, Pattern Recognition.
