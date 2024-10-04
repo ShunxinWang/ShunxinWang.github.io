@@ -21,6 +21,9 @@ Work experience
   * University of Twente 
 
 * Fall 2023: Teaching Assistant - Course: Foundation of Information Retrieval
+  * University of Twente
+
+* Fall 2023: Teaching Assistant - Course: Pearls of Computer Science 
   * University of Twente 
 
 * Fall 2022: Teaching Assistant - Course: Foundation of Information Retrieval
@@ -46,7 +49,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+
+Student projects
+======
+* 'Leveraging Graded Similarity in Self-supervised Learning', Sam Rappange. 
+
 Service
 ======
 * Reviewers for ECCV, Neurips, ICLR, AISTATS, Pattern Recognition.
