@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Twente, 2020-2024 (expected)
+* Ph.D in Computer Science, University of Twente, 2020-2025 
 * M.S. in Electrical Engineering, University of Twente, 2018-2020
 * B.S. in Electronics and Information Enginerring, Northwestern Polytechnical University, 2015-2018
 
