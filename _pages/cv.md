@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of Twente, 2020-2025 
-* M.S. in Electrical Engineering, University of Twente, 2018-2020
-* B.S. in Electronics and Information Enginerring, Northwestern Polytechnical University, 2015-2018
+* M.S. in Electrical Engineering, University of Twente, 2019-2020
+* B.S. in Electronics and Information Enginerring, Northwestern Polytechnical University, 2015-2019
 
 Work experience
 ======
@@ -60,4 +60,4 @@ Selected supervised projects
 
 Service
 ======
-* Reviewers for ECCV, Neurips, ICLR, AISTATS, Pattern Recognition.
+* Reviewers for CVPR, ECCV, Neurips, ICML, ICLR, Pattern Recognition.

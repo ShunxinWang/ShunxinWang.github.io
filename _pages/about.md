@@ -8,6 +8,24 @@ redirect_from:
 ---
 
 
-As a PhD student at the University of Twente, I am specializing in computer vision under the guidance of Raymond Veldhuis, Christoph Brune, and Nicola Strisciuglio. My research is centered on improving the robustness of deep learning-based computer vision systems against common image degradations such as noise and blur. Additionally, I work on cell segmentation and classification provided by the BIOS lab at the University of Twente.
+I am currently working as a Postdoc researcher at the University of Twente.  I received my doctoral degree from University of Twente in 2025, supervised by prof.dr.ir. Raymond Veldhuis, prof.dr. Christoph Brune, and dr. Nicola Strisciuglio. I worked on improving the robustness of vision models against common image degradations such as noise and blur and on cell segmentation and classification in a collaboration project with BIOS lab at the University of Twente.
 
 My research interests include robustness, generalization, efficient learning (from both model and data perspectives), and large-language model.  
+
+
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
