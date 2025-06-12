@@ -13,12 +13,7 @@ I am currently working as a Postdoc researcher at the University of Twente.  I r
 My research interests include robustness, generalization, efficient learning (from both model and data perspectives), and large-language model.  
 
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+# Publications 
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
