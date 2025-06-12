@@ -61,3 +61,7 @@ Selected supervised projects
 Service
 ======
 * Reviewers for CVPR, ECCV, Neurips, ICML, ICLR, Pattern Recognition.
+
+Event organization
+======
+* Member of the Program Committee for the Netherlands Conference on Computer Vision (NCCV) 2025
