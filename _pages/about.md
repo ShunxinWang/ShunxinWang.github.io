@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 
-I am currently working as a Postdoc researcher at the University of Twente.  I received my doctoral degree from University of Twente in 2025, supervised by prof.dr.ir. Raymond Veldhuis, prof.dr. Christoph Brune, and dr. Nicola Strisciuglio. I worked on improving the robustness of vision models against common image degradations such as noise and blur and on cell segmentation and classification in a collaboration project with BIOS lab at the University of Twente.
+I am currently a Postdoctoral Researcher at the University of Twente. I earned my PhD from the same institution in 2025, under the supervision of [Prof. Dr. Ir. Raymond Veldhuis](https://scholar.google.com/citations?user=7BpMrY0AAAAJ&hl=nl), [Prof. Dr. Christoph Brune(https://scholar.google.com/citations?user=QkD3WhsAAAAJ&hl=en), and [Dr. Nicola Strisciuglio](https://scholar.google.it/citations?user=7cgpfGYAAAAJ&hl=it). My doctoral work focused on improving the robustness of vision models against common image corruptions such as noise and blur. I also contributed to a collaborative project with the BIOS Lab at the University of Twente, working on cell segmentation and classification.
 
-My research interests include robustness, generalization, efficient learning (from both model and data perspectives), and large-language model.  
-
+My research interests lie in robustness, generalization, and efficient learning (from both model and data perspectives), as well as large language models.
 
 # Publications 
 
